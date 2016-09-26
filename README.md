@@ -1,4 +1,4 @@
-# Hangman
+# Taco Hangman 
 Repository for CSE337's hangman prerequisite assignment.
 
 Created as close to the original homework specifications as possible.
@@ -8,3 +8,4 @@ merely a demonstration of my ability to implement a basic hangman game in Java.
 Feel free to use this code for whatever suits your needs.
 
 Cheers.
+
